@@ -16,7 +16,7 @@ cvim-edit.el --- cVim Edit Server on Emacs
 - `.cvimrc`
 
   ```
-  imap <C-o> editWithVim
+  imap <C-x> editWithVim
   ```
 
 - `~/.emacs.d/init.el`
